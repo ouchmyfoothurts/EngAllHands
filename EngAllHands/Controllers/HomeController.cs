@@ -15,7 +15,7 @@ namespace EngAllHands.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "This application SUCKS!";
 
             return View();
         }
